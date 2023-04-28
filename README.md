@@ -1,0 +1,3 @@
+# University Benchmarks Prediction
+
+The Windows application is designed to help students choose the right university based on their university entrance exam score, using linear regression and score distribution data from previous years. The app allows students to input their exam scores and generates a list of universities that match their scores. The linear regression algorithm analyzes the correlation between exam scores and university admission criteria, providing accurate predictions of a student's chances of getting into a particular school. With this app, students can make informed decisions about their academic future and increase their chances of getting into the right university.
